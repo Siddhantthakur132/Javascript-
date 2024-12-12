@@ -84,6 +84,6 @@ If you find this repository helpful, feel free to:
 - 🍴 Fork it to explore further
 - 📨 Share your feedback or suggestions in the Issues section
 
-💬 Let's connect on [LinkedIn](https://www.linkedin.com/) and follow my journey! Together, we can make learning JavaScript fun and exciting! 🎉
+💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/siddhant-thakur-b3b236261/) and follow my journey! Together, we can make learning JavaScript fun and exciting! 🎉
 
 
